@@ -1,5 +1,3 @@
-#Leaked By b r y a n#8259 Attack Detection
-
 import os, sys, socket, requests, time, subprocess, shlex, ipapi
 from datetime import datetime, date
 from discord_webhook import DiscordWebhook, DiscordEmbed
@@ -13,7 +11,7 @@ timenow = datetime.now()
 timenow2 = timenow.strftime("%d-%m-%Y-%H:%M:%S")
 
 #Discord Webhook Configuration
-webhook_url = "https://discord.com/api/webhooks/758854857774989352/JVxeIHDoHeq1trcuXW-ffVBCzXJDsqNtZbLnUIkG8Nof7Haou3UoeqFecXCBf2DExAiH"
+webhook_url = "ADD YOUR WEBHOOK HERE!"
 
 #Get The ethernet
 ethernet = sys.argv[1]
