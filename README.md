@@ -56,7 +56,7 @@ Python 3.10.0
 > 1. Download the script to your server using git or wget. 
 
 ```
-> (Ex: sudo git clone https://github.com/lolxbdm/DDoS-Attack-Detection.git) 
+(Ex: sudo git clone https://github.com/lolxbdm/DDoS-Attack-Detection.git) 
 
 or
 
