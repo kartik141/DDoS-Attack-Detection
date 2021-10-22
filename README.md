@@ -69,4 +69,4 @@ or
 
 ## Issues
 
-> If you find issues with it, I had this for quite awhile so you may need to update it yourself sense i do not have discord to test this.
+> Any of the issues i will not assist you with, Do not bother to try to contact me or ask me for help! Enjoy... :)
