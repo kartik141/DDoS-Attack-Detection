@@ -11,7 +11,7 @@ timenow = datetime.now()
 timenow2 = timenow.strftime("%d-%m-%Y-%H:%M:%S")
 
 #Discord Webhook Configuration
-webhook_url = "ADD YOUR WEBHOOK HERE!"
+webhook_url = "https://discord.com/api/webhooks/929664184868818964/luXXyJhw5w_XEBc_KK9mjm4yQPU8g4zhWaelJg4hSvkC5C0M5GtMJ3RLKRZk6MxOimR1"
 
 #Get The ethernet
 ethernet = sys.argv[1]
